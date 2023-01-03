@@ -1,0 +1,16 @@
+.navbar {
+    margin-bottom: 20px;
+  }
+  .navbar-brand {
+    color: blue;
+  }
+  .nav-item {
+    margin-left: 10px;
+  }
+  .nav-link {
+    color: blue;
+  }
+  .nav-link:hover {
+    color: white;
+    background-color: red;
+  }
